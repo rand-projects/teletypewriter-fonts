@@ -1,0 +1,17 @@
+Reminder to me on how to make images of fonts. Once you run this
+(with the correct filename), you have 10 seconds to select the fontforge
+screen.
+
+In one terminal:
+   fontforge TTY28RE
+
+   Maximize the font display.
+
+In another terminal:
+
+gnome-screenshot -d 10 -w -f TTY28RE.png
+
+   Go back and select the fontforge window. In 10 seconds the screen shot
+   will be taken.
+
+
