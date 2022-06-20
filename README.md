@@ -47,3 +47,5 @@ Commonly used for stock reporting. Back in the day (before 1997), stocks were on
 
 The 35TD typebox was the usual typebox that came with the stock Model-35. It has the unusual feature that the letter '`O`' has a slash in it, and not the number '`0`' (these days, if something that looks like '`0`' has a slash in it, it is a zero-- but back in the day it wasn't really standardized). All of the Model-35's I ever used were like this. For those who want a slashed-zero, use 35TD1. If you don't want any slashes, use 35TD2. Which glyphs are in a typebox is supposed to be standardized, but it actually isn't. There are TD typeboxes that have alternate glyphs (straight from the factory), which are still marked TD.
 35TD3 is an example of one of these. The quotes are different, the underscore is a back arrow, and the caret is an up-arrow.
+
+If you want to use 35TD, but also want to be able to tell lower from uppercase, there is `35TDlc`. In this font the lowercase letters are the same as uppercase letters, but shrunk by 20%.
