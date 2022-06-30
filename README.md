@@ -52,4 +52,4 @@ Both 35TD and 35DC have lowercase versions, where there are 80% size characters 
 
 ### 37ts109
 
-The Model-37 was an upper and lower case typebox teletype. There were different fonts-- `ts109` stands for type style 109 and was one of the available fonts. This font was generated using a sample from the Model-37 brochure and YouTube videos. A non-slash zero and an alternative digit `1` form are found in the copyright and `underscore a` positions. It seems the brochure example used the lower case `l` character for both lower case 'l' and '1'. Other samples show a different style `1`, and that is the one included in the main font.
+The Model-37 was an upper and lower case typebox teletype. There were different fonts-- `ts109` stands for type style 109 and was one of the available fonts. This font was generated using a sample from the Model-37 brochure and YouTube videos. A non-slash zero and an alternative digit `1` form are found in the `copyright` and `underscore a` positions. It seems the brochure example used the lower case `l` character for both lower case `l` and `1`. Other samples show a different style `1`, and that is the one included in the main font.
