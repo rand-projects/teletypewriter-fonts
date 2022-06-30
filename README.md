@@ -1,6 +1,6 @@
 # Teletypewriter-fonts
 
-**Teletypewriter-fonts** is a collection of TrueType fonts (`.ttf`) for Model-28 (BAUDOT) and Model-35 (ASCII) typeboxes based on photographs of actual typeboxes. The glyphs are then arranged into sets whose two-letter abbreviations would have been stamped on the typebox.
+**Teletypewriter-fonts** is a collection of TrueType fonts (`.ttf`) for Model-28 (BAUDOT), Model-35 (ASCII), and Model-37 (ASCII) typeboxes based on photographs of actual typeboxes or other sources. The glyphs are then arranged into sets whose two-letter abbreviations would have been stamped on the typebox.
 
 The purpose is to archive the fonts for historical purposes. These fonts are useful for such things displaying historical aviation weather data, old stock reports, and when using retro computer simulators.
 
@@ -49,3 +49,7 @@ The 35TD and the 35DC were common Model-35 typeboxes. The 35DC is the one I have
 'O'). The difference is that the 35TD uses the up arrow for the caret and the back arrow for underscore (backspace). The 35DC uses the normal caret glyph and uses a regular underscore. Again, there are lots of variants of these in the wild. My glyphs are based on the manuals. You may notice the use of slash through the letter 'O' in some fonts-- this is not an error.
 
 Both 35TD and 35DC have lowercase versions, where there are 80% size characters for lowercase. This is useful for using the font when you have access to lowercase terminals. Actual fonts were uppercase only.
+
+### 37ts109
+
+The Model-37 was an upper and lower case typebox teletype. There were different fonts-- `ts109` stands for type style 109 and was one of the available fonts. This font was generated using a sample from the Model-37 brochure and YouTube videos. A non-slash zero and an alternative digit `1` form are found in the copyright and `underscore a` positions. It seems the brochure example used the lower case `l` character for both lower case 'l' and '1'. Other samples show a different style `1`, and that is the one included in the main font.
