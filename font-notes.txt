@@ -33,3 +33,5 @@ For all glyphs:
 Then do all the usual..correct direction, extrema, overlap, set width, center
  in width, etc.
  
+When changing weight for this font, 40 is a good value to try. You will
+need to change kerning distance, recenter, etc.
