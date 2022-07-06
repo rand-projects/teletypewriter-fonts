@@ -1,0 +1,35 @@
+Font notes to me when converting from SVG font to fontforge.
+------------------------------------------------------------
+Encoding -> Reencode -> ISO 8859-1 (Latin1)
+Clear character 0
+Pull up metrics window
+     Make a line with a space and adjust ' ' metric
+With all characters selected
+     Element -> Transform -> Move y -200
+Select all characters
+       Right click set width and adjust width
+       Then center all characters in width
+       To Int
+       Autohint
+       Correct direction
+Element -> Overlap -> Remove overlap
+Element -> Add extrema
+Element -> Font Info
+
+To add emphasis:
+----------------
+Select all Elements
+Element -> Style -> Change Weight
+	Embolden by 10-12 (or what works)
+Note: All the widths change! Set widths to constant.
+Redo all the autohint remove overlap, etc
+
+Converting to TTYts101-base.svg:
+--------------------------------
+Reencode
+For all glyphs:
+ Scale Uniformly 130%
+ Move y -82
+Then do all the usual..correct direction, extrema, overlap, set width, center
+ in width, etc.
+ 
