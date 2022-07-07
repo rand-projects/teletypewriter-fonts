@@ -35,3 +35,6 @@ Then do all the usual..correct direction, extrema, overlap, set width, center
  
 When changing weight for this font, 40 is a good value to try. You will
 need to change kerning distance, recenter, etc.
+
+Converting LA36.svg
+-------------------
