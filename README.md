@@ -60,7 +60,7 @@ slashed in 'RE'. There were sky cover glyphs for clear, scattered, broken, and o
 
 * **TTY28RB**: Commonly used for stock reporting. Back in the day (before 1997), stocks were only reported in 1/8th of a dollar increments.
 
-* ***TTY35TD and TTY35DC**: The 35TD and the 35DC were common Model-35 typeboxes. The 35DC is the one I have seen used the most (although I have seen a bunch of typeboxes marked `TD` containing the `DC` glyph set with the famous slashed letter
+* **TTY35TD and TTY35DC**: The 35TD and the 35DC were common Model-35 typeboxes. The 35DC is the one I have seen used the most (although I have seen a bunch of typeboxes marked `TD` containing the `DC` glyph set with the famous slashed letter
 'O'). The main difference is that the 35TD uses the up arrow for the caret and the back arrow for underscore. A fancier comma and double quote character are found in the 35DC, along with a normal caret glyph and underscore. Again, there are lots of variants of these in the wild. My glyphs are based on the manuals. Both 35TD and 35DC have lowercase versions, where there are 80% size characters for lowercase. This is useful for using the font when you have access to lowercase terminals. Actual fonts were uppercase only.
 
 #### **tty/ts109**
