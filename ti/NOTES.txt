@@ -1,0 +1,5 @@
+TI-PC100C
+	Transform x -43 y -161 Kern 615
+
+Most dot matrix fonts have a kerning of one dot before and
+one dot after.

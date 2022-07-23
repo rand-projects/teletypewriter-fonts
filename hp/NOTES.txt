@@ -1,0 +1,2 @@
+HP85 font is transformed x -23 and y -160 from SVG.
+When creating book font use CJK.
