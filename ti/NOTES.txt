@@ -1,5 +1,9 @@
 TI-PC100C
 	Transform x -43 y -161 Kern 615
 
+TI-703
+	Transform x -48 y -205 Kern 605
+	Book font enhance by 10. Use CJK mode. Auto counters. Kern 625.
+	
 Most dot matrix fonts have a kerning of one dot before and
 one dot after.

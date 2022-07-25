@@ -1,0 +1,4 @@
+Suffix of -NS means 'non-standard'. It is very common for people to
+move pallets from typebox to typebox.
+
+TD-001-NS is essentialy a 'DC' typebox.
