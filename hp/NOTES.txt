@@ -1,2 +1,5 @@
 HP85 font is transformed x -23 and y -160 from SVG.
 When creating book font use CJK.
+
+HP97 doesn't have 'JKQUV' characters. Glyphs for these characters
+were copied from the HP85.
