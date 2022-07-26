@@ -1,4 +1,18 @@
+There is a directory for each original typebox. Typeboxes are named
+by the letters stamped on the outside. The pallets in the typebox
+do not always agree with what is supposed to be there. So 'RD-001'
+means the first ('-001') typebox marked 'RD'.
+
 Suffix of -NS means 'non-standard'. It is very common for people to
 move pallets from typebox to typebox.
 
 TD-001-NS is essentialy a 'DC' typebox.
+
+Photos are names with the format: number_character-name_copy.<image type>
+
+'number' is the Teletype pallet number, character is the 1 character name
+(or nothing if it won't work in a file name or isn't a standard character.
+'character-name' is a more descriptive name if the single character
+could not be used. 'copy' is usually left off, but if the typebox has more
+that one of the same character, the first is '1', second is '2', etc.
+
