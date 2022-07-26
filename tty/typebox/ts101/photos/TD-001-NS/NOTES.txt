@@ -1,0 +1,2 @@
+This typebox is marked "TD", but it is essentially a model-35
+"DC" typebox.

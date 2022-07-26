@@ -39,8 +39,8 @@ Model-35 typebox information is on page 43.
 * http://www.bitsavers.org/communications/teletype/28/1149B_Mod28_Parts_Apr63.pdf.
 Model-28 typebox information on pages 3-42 to 3-44.
 
-* https://www.navy-radio.com/manuals/tty/typebox-code.pdf.
-More expansive list of Model-28 typebox codes. This isn't the last typebox list, there are many more typeboxes that were developed, but I don't have any more sources after this one.
+* https://www.telecomarchive.com/docs/bsp-archive/573/573-115-800_I2.pdf.
+More expansive list of Model-28 typebox codes. Found on pages 53-57.
 
 * https://www.navy-radio.com/manuals-ttycorp.htm.
 Best source for Teletype information.  
