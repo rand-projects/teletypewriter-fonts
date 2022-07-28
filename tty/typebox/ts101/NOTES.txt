@@ -1,0 +1,8 @@
+Fontforge doesn't always do a great job with increasing the
+weight of a font.
+
+To increase wt. CJK 40em, no cleanup self intercept, maintain counters
+
+After that, find intersections, simplify, etc.
+For these fonts, 630 kern for the Book font.
+Don't forget to center glyph (something you don't do for dot-matrix fonts).
