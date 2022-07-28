@@ -1,0 +1,7 @@
+LA36
+	Light/Book: Transform x -58 y -201
+	Light: kern 520
+	Book: enhance 15, CJK, Auto counters. Kern 530.
+
+Most dot matrix fonts have a kerning of one dot before and
+one dot after.
