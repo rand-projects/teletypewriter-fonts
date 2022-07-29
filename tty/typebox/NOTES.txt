@@ -1,0 +1,5 @@
+To rotate and horizontally flip an entire directory of images:
+
+mogrify -rotate -90 -flop PICA*.jpg
+
+Make sure the rotate direction is correct!

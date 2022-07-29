@@ -1,0 +1,5 @@
+TU-001
+Nothing about this typebox makes sense. It is unknowN what glyphs the typebox
+normally has, ir if there are pallets from other typeboxes. The alphanumeric
+characters are gothic 12 (ts104). Some of the others might
+be also.
