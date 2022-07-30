@@ -10,10 +10,11 @@ The photographs used to develop some of the fonts can be found in the `photos` s
 
 Fonts are usually marked either `-Light` or `-Book`. Light fonts come from original pictures-- before the glyph hit ink and paper. These are
 usually thinner than desired. Book fonts are more what you would see after the glyph was rendered on paper. For emulating terminals and the 
-such, book fonts are recommended.
+such, Book fonts are recommended.
 
 Fonts that have the letters `lc` in the name denote that this font only
-has uppercase letters normally, but that lowercase letters that are 80% the size the of uppercase letter is provided. This is useful if you are using the font for a modern system.
+has uppercase letters normally, but that lowercase letters that are 80% the height the of uppercase letter is provided. This is useful if you are using the font for a modern system. Some of these fonts have a tiny
+square for characters that are not normally in the font.
 
 Each font has an associated `.png` file where the font can be viewed.
 
@@ -21,12 +22,11 @@ Each font has an associated `.png` file where the font can be viewed.
 
 ### **tty**
 
-Divided up into the `ts101` and `ts109` subdirectories.
+Divided up into `typebox` and `typewheel` directories.
 
-#### **tty/ts101**
+#### **tty/typebox/ts101**
 
-`ts101`, also known as 'Murray' fonts, contains Model-28, Model-35, and Model-33 fonts.
-Model-28 and Model-35 fonts consisted of individual 'pallets' put inside a 'typebox'. Model-33 fonts were punched as a unit on a type wheel.
+`ts101`, also known as 'Murray' fonts. Used by a variety of printers, both typebox and typewheel. 
 
 All of these fonts contain a two letter designation. For Model-28
 and Model-35 fonts, these letters
@@ -63,19 +63,36 @@ slashed in 'RE'. There were sky cover glyphs for clear, scattered, broken, and o
 * **TTY35TD and TTY35DC**: The 35TD and the 35DC were common Model-35 typeboxes. The 35DC is the one I have seen used the most (although I have seen a bunch of typeboxes marked `TD` containing the `DC` glyph set with the famous slashed letter
 'O'). The main difference is that the 35TD uses the up arrow for the caret and the back arrow for underscore. A fancier comma and double quote character are found in the 35DC, along with a normal caret glyph and underscore. Again, there are lots of variants of these in the wild. My glyphs are based on the manuals. Both 35TD and 35DC have lowercase versions, where there are 80% size characters for lowercase. This is useful for using the font when you have access to lowercase terminals. Actual fonts were uppercase only.
 
-#### **tty/ts109**
+#### **tty/typebox/ts109**
 
 This type style includes the Model-37 'ts109' typebox.
 
 The Model-37 was an upper and lower case typebox teletype. There were different fonts-- `ts109` stands for type style 109 and was one of the available fonts. This font was generated using a sample from the Model-37 brochure and YouTube videos. A non-slash zero and an alternative digit `1` form are found in the `copyright` and `underscore a` positions. It seems the brochure example used the lower case `l` character for both lower case `l` and `1`. Other samples show a different style `1`, and that is the one included in the main font.
 
+#### **tty/typebox/ts104**
+
+Type style 104 is also known as 12 character per inch Gothic font. It is
+an alternate to Murray fonts.
+
+#### **tty/typewheel/reperf
+
+Fonts for reperforators (machines that wrote on paper tape).
+
+#### **tty/typewheel/tty33
+
+Model 33 teletype fonts.
+
 ### **ti**
 
-Fonts for Texas Instruments Silent-700 printers.
+Fonts for Texas Instruments Silent-700 printers and calculator printers.
 
 ### **dec**
 
 Fonts for Digital printers, such as the LA-36 (Decwriter ii).
+
+### **hp**
+
+Fonts for HP calculator printers.
 
 ### **misc**
 
