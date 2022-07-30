@@ -74,11 +74,11 @@ The Model-37 was an upper and lower case typebox teletype. There were different 
 Type style 104 is also known as 12 character per inch Gothic font. It is
 an alternate to Murray fonts.
 
-#### **tty/typewheel/reperf
+#### **tty/typewheel/reperf**
 
 Fonts for reperforators (machines that wrote on paper tape).
 
-#### **tty/typewheel/tty33
+#### **tty/typewheel/tty33**
 
 Model 33 teletype fonts.
 
